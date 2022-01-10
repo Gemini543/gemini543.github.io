@@ -1,0 +1,25 @@
+
+nav {
+    width: 50%;
+    margin: 0 auto 30px;
+  }
+
+h1 {
+    text-align: center;
+    background: none;
+}
+
+p {
+    background: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.topmenu > li {
+    display: inline-block;
+    margin-right: 20px;
+    position: relative;
+}
+
